@@ -1,9 +1,10 @@
-/* style: Clean up unused code */
-/* Updated on 20/8/2024 */
+# docs: Update license
 
-.updated-styles {
-  /* New styling rules */
-  color: #333;
-  font-size: 16px;
-  margin: 10px 0;
-}
+Updated on 21/8/2024
+
+## Changes
+- Improved documentation
+- Added examples
+- Updated installation guide
+
+Last updated: 2024-08-21T00:00:00.000Z
