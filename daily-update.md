@@ -1,5 +1,5 @@
-/* style: Improve accessibility */
-/* Updated on 22/8/2024 */
+/* style: Update color scheme */
+/* Updated on 23/8/2024 */
 
 .updated-styles {
   /* New styling rules */
