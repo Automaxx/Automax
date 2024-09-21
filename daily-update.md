@@ -1,9 +1,10 @@
-// feature: Add data validation
-// Added on 20/9/2024
+# docs: Create user manual
 
-function newFeature() {
-  // Implementation details
-  return true;
-}
+Updated on 21/9/2024
 
-export default newFeature;
+## Changes
+- Improved documentation
+- Added examples
+- Updated installation guide
+
+Last updated: 2024-09-21T00:00:00.000Z
