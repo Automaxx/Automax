@@ -1,5 +1,5 @@
-/* style: Refactor component structure */
-/* Updated on 26/10/2024 */
+/* style: Improve typography */
+/* Updated on 27/10/2024 */
 
 .updated-styles {
   /* New styling rules */
