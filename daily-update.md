@@ -1,5 +1,5 @@
-/* style: Improve typography */
-/* Updated on 27/10/2024 */
+/* style: Update color scheme */
+/* Updated on 28/10/2024 */
 
 .updated-styles {
   /* New styling rules */
