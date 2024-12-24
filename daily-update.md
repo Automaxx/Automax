@@ -1,5 +1,5 @@
-/* style: Add animations */
-/* Updated on 22/12/2024 */
+/* style: Improve accessibility */
+/* Updated on 24/12/2024 */
 
 .updated-styles {
   /* New styling rules */
