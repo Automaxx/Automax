@@ -1,5 +1,5 @@
-/* style: Clean up unused code */
-/* Updated on 27/12/2024 */
+/* style: Improve typography */
+/* Updated on 29/12/2024 */
 
 .updated-styles {
   /* New styling rules */
