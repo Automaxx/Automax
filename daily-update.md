@@ -1,9 +1,10 @@
-/* style: Improve typography */
-/* Updated on 29/12/2024 */
+# docs: Create user manual
 
-.updated-styles {
-  /* New styling rules */
-  color: #333;
-  font-size: 16px;
-  margin: 10px 0;
-}
+Updated on 30/12/2024
+
+## Changes
+- Improved documentation
+- Added examples
+- Updated installation guide
+
+Last updated: 2024-12-30T00:00:00.000Z
