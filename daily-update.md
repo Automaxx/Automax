@@ -1,9 +1,10 @@
-/* style: Clean up imports */
-/* Updated on 22/1/2025 */
+# docs: Update installation guide
 
-.updated-styles {
-  /* New styling rules */
-  color: #333;
-  font-size: 16px;
-  margin: 10px 0;
-}
+Updated on 23/1/2025
+
+## Changes
+- Improved documentation
+- Added examples
+- Updated installation guide
+
+Last updated: 2025-01-23T00:00:00.000Z
