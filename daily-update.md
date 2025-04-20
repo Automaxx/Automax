@@ -1,5 +1,5 @@
-/* style: Improve accessibility */
-/* Updated on 19/4/2025 */
+/* style: Improve code formatting */
+/* Updated on 20/4/2025 */
 
 .updated-styles {
   /* New styling rules */
