@@ -1,9 +1,10 @@
-/* style: Update CSS styles */
-/* Updated on 17/5/2025 */
+# docs: Update changelog
 
-.updated-styles {
-  /* New styling rules */
-  color: #333;
-  font-size: 16px;
-  margin: 10px 0;
-}
+Updated on 18/5/2025
+
+## Changes
+- Improved documentation
+- Added examples
+- Updated installation guide
+
+Last updated: 2025-05-18T00:00:00.000Z
