@@ -1,5 +1,5 @@
-/* style: Update CSS styles */
-/* Updated on 30/5/2025 */
+/* style: Update color scheme */
+/* Updated on 31/5/2025 */
 
 .updated-styles {
   /* New styling rules */
