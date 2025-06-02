@@ -1,5 +1,5 @@
-/* style: Update layout */
-/* Updated on 1/6/2025 */
+/* style: Improve typography */
+/* Updated on 2/6/2025 */
 
 .updated-styles {
   /* New styling rules */
