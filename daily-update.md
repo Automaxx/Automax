@@ -1,9 +1,10 @@
-/* style: Update color scheme */
-/* Updated on 14/6/2025 */
+# docs: Add API documentation
 
-.updated-styles {
-  /* New styling rules */
-  color: #333;
-  font-size: 16px;
-  margin: 10px 0;
-}
+Updated on 15/6/2025
+
+## Changes
+- Improved documentation
+- Added examples
+- Updated installation guide
+
+Last updated: 2025-06-15T00:00:00.000Z
