@@ -1,9 +1,10 @@
-// feature: Create notification system
-// Added on 30/7/2024
+# docs: Update license
 
-function newFeature() {
-  // Implementation details
-  return true;
-}
+Updated on 31/7/2024
 
-export default newFeature;
+## Changes
+- Improved documentation
+- Added examples
+- Updated installation guide
+
+Last updated: 2024-07-31T00:00:00.000Z
