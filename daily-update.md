@@ -1,5 +1,5 @@
-/* style: Clean up unused code */
-/* Updated on 3/8/2024 */
+/* style: Improve code formatting */
+/* Updated on 4/8/2024 */
 
 .updated-styles {
   /* New styling rules */
